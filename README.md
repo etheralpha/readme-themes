@@ -4,10 +4,9 @@ This repo consists of [themes](https://github.com/etheralpha/readme-themes/) for
 
 Steps to use:
 
-1. Add the following to the top of your README.md file, replacing `${theme-name}` and `${site-name}` with the name of the theme you want to use and what the name of your site is.
+1. Add the following to the top of your README.md file, replacing `${theme-name}` and `${site-name}` with the name of the theme you want to use and what the name of your site is. Other meta tags can be added to this as well.
     ```
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>${site-name}</title>
     <link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/${theme-name}.css">
     ```
 1. (Optional) To add the Github link to the bottom of the page add the follow at the bottom of your README.md file, replacing `${github-repo}` with the link to your repo.
