@@ -1,6 +1,6 @@
 # readme-themes
 
-This repo consists of themes for simple sites built from README.md files.
+This repo consists of [themes](https://github.com/etheralpha/readme-themes/) for simple sites built from README.md files.
 
 Steps to use:
 
