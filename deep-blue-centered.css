@@ -1040,6 +1040,8 @@ body {
   margin: 0px auto;
   padding: 20px;
   text-align: center;
+  color: rgba(201, 209, 217, 0.9);
+  background-color: rgba(19, 24, 39, 1);
 }
 body table {
   transform: translateX(-50%);
@@ -1051,16 +1053,18 @@ body table th {
 body table td {
   white-space: nowrap;
 }
-body {
-  color: rgb(201 209 217 / 90%);
+table tr.even,
+table tr.header {
+  background-color: rgb(27, 34, 54, 0.2) !important;
+}
+table tr.odd {
+  background-color: rgb(27, 34, 54, 0.7) !important;
 }
 h1, h2, h3, h4 {
   color: rgb(201 209 217 / 100%);
 }
 #github-link svg {
   color: rgb(201 209 217 / 100%);
-  /* transform: translateX(-50%); */
-  /* margin-left: 50%; */
   margin-top: 10px;
   margin-bottom: 20px;
 }
