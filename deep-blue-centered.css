@@ -1063,6 +1063,10 @@ table tr.odd {
 h1, h2, h3, h4 {
   color: rgb(201 209 217 / 100%);
 }
+small {
+  opacity: 70%;
+  font-weight: 300;
+}
 #github-link svg {
   color: rgb(201 209 217 / 100%);
   margin-top: 10px;
