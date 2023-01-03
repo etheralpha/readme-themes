@@ -1059,8 +1059,8 @@ h1, h2, h3, h4 {
 }
 #github-link svg {
   color: rgb(201 209 217 / 100%);
-  transform: translateX(-50%);
-  margin-left: 50%;
+  /* transform: translateX(-50%); */
+  /* margin-left: 50%; */
   margin-top: 10px;
   margin-bottom: 20px;
 }
