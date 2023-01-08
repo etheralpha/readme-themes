@@ -1081,6 +1081,30 @@ input {
   appearance: none;
   margin-top: 0.5rem !important;
 }
+button {
+  color: #d8dfff;
+  background-color: #374467;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  border: 1px solid transparent !important;
+  padding: 0.375rem 0.75rem;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+button:hover,
+button:focus {
+  background-color: #374467ad !important;
+}
 callout {
   border-radius: 0.5rem;
   background: rgba(27, 34, 54, 1);
