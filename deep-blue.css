@@ -1042,6 +1042,9 @@ body {
   color: rgba(201, 209, 217, 0.9);
   background-color: rgba(19, 24, 39, 1);
 }
+body hr {
+  background-color: #374467;
+}
 body table th {
   text-align: left;
 }
