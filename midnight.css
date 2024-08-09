@@ -93,7 +93,7 @@ body small {
 body sub,
 body sup {
   font-size: 75%;
-  line-height: 0;
+  line-height: 1;
   position: relative;
   vertical-align: baseline;
 }
